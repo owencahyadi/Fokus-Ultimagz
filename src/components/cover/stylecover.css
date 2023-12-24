@@ -1,0 +1,133 @@
+.box {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../../assets/cover_bg.png);
+  background-size: 100vw 100vh;
+  padding: 20px;
+}
+
+.baris {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.telisik5 {
+  /* background: aqua; */
+  margin: 0;
+  width: 820px;
+  height: 170px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.telisik5 h1 {
+  font-size: 50px;
+  font-weight: bolder;
+  color: bisque;
+  text-shadow: 5px 5px #0000;
+}
+
+.budaya {
+  width: 375px;
+  height: 170px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.budaya h1 {
+  font-size: 50px;
+  font-weight: bolder;
+  color: bisque;
+  text-shadow: 50px 50px #00000000;
+}
+
+.batik1 {
+  /* background: aqua; */
+  margin: 0;
+  width: 450px;
+  height: 175px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.benda {
+  /* background: black; */
+  margin: 0;
+  width: 825px;
+  height: 175px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.benda h1 {
+  font-size: 50px;
+  font-weight: bolder;
+  color: bisque;
+  text-shadow: 50px 50px #00000000;
+}
+
+.indonesia {
+  /* background: rgb(212, 108, 108); */
+  margin: 0;
+  width: 670px;
+  height: 175px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.indonesia h1 {
+  font-size: 50px;
+  font-weight: bolder;
+  color: rgb(255, 0, 0);
+  text-shadow: 50px 50px #00000000;
+}
+
+.untuk {
+  /* background: aqua; */
+  margin: 0;
+  width: 450px;
+  height: 175px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.untuk h1 {
+  font-size: 50px;
+  font-weight: bolder;
+  color: antiquewhite;
+  text-shadow: 50px 50px #00000000;
+}
+
+.batik2 {
+  /* background: aqua; */
+  margin: 0;
+  width: 450px;
+  height: 175px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.kehidupan {
+  /* background: rgb(255, 255, 255); */
+  margin: 0;
+  width: 1045px;
+  height: 175px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.kehidupan h1 {
+  font-size: 50px;
+  font-weight: bolder;
+  color: antiquewhite;
+  text-shadow: 50px 50px #00000000;
+}
