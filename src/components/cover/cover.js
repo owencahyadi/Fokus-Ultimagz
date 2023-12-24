@@ -1,6 +1,5 @@
 import React from "react";
 import "./stylecover.css";
-import coverbg from "../../assets/cover_bg.png";
 
 function cover() {
   return (
