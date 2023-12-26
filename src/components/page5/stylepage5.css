@@ -1,0 +1,78 @@
+@font-face {
+  font-family: "National2CondensedBold"; /* Specify the desired font-family name */
+  src: url("../../Fonts/National 2 XBold.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "National2regular"; /* Specify the desired font-family name */
+  src: url("../../Fonts/National 2 Condensed Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.pembungkus {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../../assets/page5.png);
+  background-size: 100vw 100vh;
+  padding: 0px;
+  display: flex;
+}
+
+.kiripage5 {
+  padding-left: 5px;
+  width: 69.5%;
+  /* background-color: aqua; */
+  height: 100%;
+}
+
+.page5atas {
+  width: 100%;
+  height: 32.7%;
+  /* background: aqua; */
+  padding: 45px;
+  font-family: National2regular;
+  font-size: 18px;
+  line-height: 1;
+  letter-spacing: 2px;
+  color: green;
+}
+
+.descc {
+  margin-top: 30px;
+  margin-left: 250px;
+}
+
+.page5bawah {
+  padding: 45px;
+  width: 100%;
+  height: 67.3%;
+  /* background: wheat; */
+}
+
+.page5bawah h1 {
+  font-family: National2bold;
+  font-size: 95px;
+  line-height: 1;
+  letter-spacing: 3px;
+  /* font-weight: bolder; */
+  color: antiquewhite;
+  text-shadow: 0 1px 0 #000, 0 2px 0 #000, 0 3px 0 #000, 0 4px 0 #000,
+    0 5px 0 #000, 0 6px 0 #000, 0 7px 0 #000, 0 8px 0 #000, 0 9px 0 #000,
+    0 6px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.1),
+    0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(0, 0, 0, 0.2),
+    0 5px 10px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.2),
+    0 20px 20px rgba(0, 0, 0, 0.15);
+}
+
+.hello {
+  margin: 50px;
+  margin-left: 250px;
+  font-family: National2regular;
+  font-size: 18px;
+  line-height: 1;
+  letter-spacing: 2px;
+  color: beige;
+}

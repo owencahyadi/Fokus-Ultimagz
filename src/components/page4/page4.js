@@ -21,7 +21,7 @@ function page4() {
       <div className="kanan">
         <div className="kananatas row">
           <h5>Jumlah tersebut terdiri dari</h5>
-          <div className="col-6">
+          <div className="col-6 mt-0 aaa">
             <h1>491</h1>
             <p>
               Warisan budaya dalam <br /> domain Adat Istiadat <br />{" "}
@@ -29,36 +29,33 @@ function page4() {
               Perayaan-Perayaan
             </p>
           </div>
-          <div className="col-6">
-            <h1>491</h1>
+          <div className="col-6 mt-0 aaa">
+            <h1>440</h1>
             <p>
-              Warisan budaya dalam <br /> domain Adat Istiadat <br />{" "}
-              Masyarakat, Ritus, dan <br />
-              Perayaan-Perayaan
+              Warisan budaya dalam <br /> domain Kemahiran dan <br /> Kerajinan
+              Tradisional
             </p>
           </div>
-          <div className="col-6">
-            <h1>491</h1>
+          <div className="col-6 mt-0 aaa">
+            <h1>503</h1>
             <p>
-              Warisan budaya dalam <br /> domain Adat Istiadat <br />{" "}
-              Masyarakat, Ritus, dan <br />
-              Perayaan-Perayaan
+              Warisan budaya dalam <br /> domain Seni Pertunjukan
             </p>
           </div>
-          <div className="col-6">
-            <h1>491</h1>
+          <div className="col-6 mt-0 aaa">
+            <h1>219</h1>
             <p>
-              Warisan budaya dalam <br /> domain Adat Istiadat <br />{" "}
-              Masyarakat, Ritus, dan <br />
-              Perayaan-Perayaan
+              Warisan budaya dalam <br />
+              domain Tradisi Lisan <br />
+              dan Ekspresi
             </p>
           </div>
-          <div className="col-6">
-            <h1>491</h1>
+          <div className="col-8 mt-0 aaa">
+            <h1>75</h1>
             <p>
-              Warisan budaya dalam <br /> domain Adat Istiadat <br />{" "}
-              Masyarakat, Ritus, dan <br />
-              Perayaan-Perayaan
+              Warisan budaya dalam domain
+              <br /> Pengetahuan dan Kebiasaan Perilaku <br />
+              Mengenai Alam dan Semesta
             </p>
           </div>
         </div>
