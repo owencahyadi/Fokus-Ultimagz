@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "National2CondensedBold"; /* Specify the desired font-family name */
+  src: url("../../Fonts/National 2 XBold.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 .box {
   width: 100vw;
   height: 100vh;
@@ -20,13 +27,18 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: National2CondensedBold;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 .telisik5 h1 {
-  font-size: 50px;
+  font-size: 70px;
   font-weight: bolder;
   color: bisque;
-  text-shadow: 5px 5px #000;
+  text-shadow: 1px 0px 1px #000, 0px 1px 1px #000, 2px 1px 1px #000,
+    1px 2px 1px #000, 3px 2px 1px #000, 2px 3px 1px #000, 4px 3px 1px #000,
+    3px 4px 1px #000, 5px 4px 1px #000, 4px 5px 1px #000;
 }
 
 .budaya {
@@ -35,13 +47,18 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: National2CondensedBold;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 .budaya h1 {
-  font-size: 50px;
+  font-size: 70px;
   font-weight: bolder;
   color: bisque;
-  text-shadow: 5px 5px #000;
+  text-shadow: 1px 0px 1px #000, 0px 1px 1px #000, 2px 1px 1px #000,
+    1px 2px 1px #000, 3px 2px 1px #000, 2px 3px 1px #000, 4px 3px 1px #000,
+    3px 4px 1px #000, 5px 4px 1px #000, 4px 5px 1px #000;
 }
 
 .batik1 {
@@ -62,13 +79,18 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: National2CondensedBold;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 .benda h1 {
-  font-size: 50px;
+  font-size: 70px;
   font-weight: bolder;
   color: bisque;
-  text-shadow: 5px 5px #000;
+  text-shadow: 1px 0px 1px #000, 0px 1px 1px #000, 2px 1px 1px #000,
+    1px 2px 1px #000, 3px 2px 1px #000, 2px 3px 1px #000, 4px 3px 1px #000,
+    3px 4px 1px #000, 5px 4px 1px #000, 4px 5px 1px #000;
 }
 
 .indonesia {
@@ -79,13 +101,18 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: National2CondensedBold;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 .indonesia h1 {
-  font-size: 50px;
+  font-size: 70px;
   font-weight: bolder;
   color: rgb(255, 0, 0);
-  text-shadow: 5px 5px #000;
+  text-shadow: 0 1px #000, -1px 0 #000, -1px 2px #000, -2px 1px #000,
+    -2px 3px #000, -3px 2px #000, -3px 4px #000, -4px 3px #000, -4px 5px #000,
+    -5px 4px #000, -5px 6px #000;
 }
 
 .untuk {
@@ -96,13 +123,18 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: National2CondensedBold;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 .untuk h1 {
-  font-size: 50px;
+  font-size: 70px;
   font-weight: bolder;
   color: antiquewhite;
-  text-shadow: 5px 5px #000;
+  text-shadow: 0 1px #000, -1px 0 #000, -1px 2px #000, -2px 1px #000,
+    -2px 3px #000, -3px 2px #000, -3px 4px #000, -4px 3px #000, -4px 5px #000,
+    -5px 4px #000, -5px 6px #000;
 }
 
 .batik2 {
@@ -123,11 +155,16 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: National2CondensedBold;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 .kehidupan h1 {
-  font-size: 50px;
+  font-size: 70px;
   font-weight: bolder;
   color: antiquewhite;
-  text-shadow: 5px 5px #000;
+  text-shadow: 1px 0px 1px #000, 0px 1px 1px #000, 2px 1px 1px #000,
+    1px 2px 1px #000, 3px 2px 1px #000, 2px 3px 1px #000, 4px 3px 1px #000,
+    3px 4px 1px #000, 5px 4px 1px #000, 4px 5px 1px #000;
 }

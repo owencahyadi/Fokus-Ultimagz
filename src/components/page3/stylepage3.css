@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "National2CondensedBold"; /* Specify the desired font-family name */
+  src: url("../../Fonts/National 2 XBold.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 .boxxes {
   width: 100vw;
   height: 100vh;
@@ -19,13 +26,21 @@
   justify-content: center;
   align-items: center;
   /* background: aqua; */
+  font-family: National2CondensedBold;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 .judul h1 {
   font-size: 90px;
   font-weight: bolder;
   color: antiquewhite;
-  text-shadow: 0px 8px #000;
+  text-shadow: 0 1px 0 #000, 0 2px 0 #000, 0 3px 0 #000, 0 4px 0 #000,
+    0 5px 0 #000, 0 6px 0 #000, 0 7px 0 #000, 0 8px 0 #000, 0 9px 0 #000,
+    0 6px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.1),
+    0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(0, 0, 0, 0.2),
+    0 5px 10px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.2),
+    0 20px 20px rgba(0, 0, 0, 0.15);
 }
 
 .gambarr {
@@ -69,13 +84,21 @@
   justify-content: center;
   align-items: center;
   /* background: yellow; */
+  font-family: National2CondensedBold;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 .desc h1 {
-  font-size: 50px;
+  font-size: 45px;
   font-weight: bolder;
   color: antiquewhite;
-  text-shadow: 0px 8px #000;
-  align-items: center;
+  text-shadow: 0 1px 0 #000, 0 2px 0 #000, 0 3px 0 #000, 0 4px 0 #000,
+    0 5px 0 #000, 0 6px 0 #000, 0 6px 1px rgba(0, 0, 0, 0.1),
+    0 0 5px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3),
+    0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.25),
+    0 10px 10px rgba(0, 0, 0, 0.2), 0 20px 20px rgba(0, 0, 0, 0.15);
+
+  /* align-items: center; */
   text-align: center;
 }
