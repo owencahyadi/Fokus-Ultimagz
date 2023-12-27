@@ -7,6 +7,7 @@ import Page6 from "./components/page6/page6";
 import Page7 from "./components/page7/page7";
 import Page8 from "./components/page8/page8";
 import Page9 from "./components/page9/page9";
+import Page10 from "./components/page10/page10";
 import Page11 from "./components/page11/page11";
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       <Page7 />
       <Page8 />
       <Page9 />
+      <Page10 />
       <Page11 />
     </div>
   );
