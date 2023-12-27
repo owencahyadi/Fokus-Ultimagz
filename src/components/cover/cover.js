@@ -17,6 +17,16 @@ function cover() {
         <div className="benda">
           <h1>BENDA & TAK BENDA</h1>
         </div>
+        <div className="namaorg">
+          <div className="namapenulis">
+            <p>Penulis:</p>
+            <h5>Wynnie Saputri Jansen</h5>
+          </div>
+          <div className="namapenulis">
+            <p>Editor:</p>
+            <h5>Michael Ludovico</h5>
+          </div>
+        </div>
       </div>
       <div className="baris3 baris">
         <div className="indonesia">
