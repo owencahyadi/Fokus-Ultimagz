@@ -24,12 +24,12 @@
 .page8atas {
   width: 100%;
   height: 13%;
-  opacity: 0.5;
+  /* opacity: 0.5; */
   /* background-color: aqua; */
 }
 
 .page8isi {
-  height: 540px;
+  height: 74%;
   width: 100%;
   /* background: aqua; */
   display: flex;
@@ -39,7 +39,7 @@
   width: 100%;
   height: 62%;
   /* background-color: aqua; */
-  padding: 85px 65px 55px 105px;
+  padding: 7% 5% 5% 9%;
 }
 
 .page8isiatas h1 {
@@ -71,7 +71,7 @@
   /* background: aqua; */
   display: flex;
   justify-content: end;
-  padding-right: 50px;
+  padding-right: 3%;
 }
 
 .page8bawahkiri p {
@@ -97,14 +97,14 @@
 }
 
 .page8kiri {
-  height: 540px;
+  height: 100%;
   width: 79.2%;
   /* background: aqua; */
   /* display: flex; */
 }
 
 .page8kanan {
-  height: 540px;
+  height: 100%;
   width: 20.8%;
   /* background: aqua; */
 }
@@ -119,9 +119,9 @@
 }
 
 .page8kananatas img {
-  width: 160px;
-  margin-left: 20px;
-  margin-top: 40px;
+  width: 48%;
+  margin-left: 8%;
+  margin-top: 14%;
 }
 
 .page8kananbawah {
@@ -137,7 +137,7 @@
 }
 
 .page8kananbawah h1 {
-  font-size: 45px;
+  font-size: 38px;
   font-weight: bolder;
   color: antiquewhite;
   text-shadow: 0 1px 0 #000, 0 2px 0 #000, 0 3px 0 #000, 0 4px 0 #000,
@@ -145,7 +145,5 @@
     0 0 5px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3),
     0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.25),
     0 10px 10px rgba(0, 0, 0, 0.2), 0 20px 20px rgba(0, 0, 0, 0.15);
-
-  /* align-items: center; */
   text-align: center;
 }
