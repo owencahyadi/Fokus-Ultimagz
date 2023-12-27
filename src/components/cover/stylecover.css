@@ -14,16 +14,49 @@
 }
 
 .baris {
+  width: 100%;
   margin: 0;
   display: flex;
   flex-direction: row;
 }
 
+.baris1 {
+  width: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  height: 25%;
+}
+
+.baris2 {
+  width: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  height: 25%;
+}
+
+.baris3 {
+  width: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  height: 25%;
+}
+
+.baris4 {
+  width: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  height: 25%;
+}
+
 .telisik5 {
   /* background: aqua; */
   margin: 0;
-  width: 820px;
-  height: 170px;
+  width: 55%;
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -42,8 +75,8 @@
 }
 
 .budaya {
-  width: 375px;
-  height: 170px;
+  width: 25%;
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -64,8 +97,8 @@
 .batik1 {
   /* background: aqua; */
   margin: 0;
-  width: 450px;
-  height: 175px;
+  width: 30%;
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -74,8 +107,8 @@
 .benda {
   /* background: black; */
   margin: 0;
-  width: 825px;
-  height: 175px;
+  width: 55.5%;
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -96,8 +129,8 @@
 .indonesia {
   /* background: rgb(212, 108, 108); */
   margin: 0;
-  width: 670px;
-  height: 175px;
+  width: 45%;
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -118,8 +151,8 @@
 .untuk {
   /* background: aqua; */
   margin: 0;
-  width: 450px;
-  height: 175px;
+  width: 30%;
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -140,8 +173,8 @@
 .batik2 {
   /* background: aqua; */
   margin: 0;
-  width: 450px;
-  height: 175px;
+  width: 30%;
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -150,8 +183,8 @@
 .kehidupan {
   /* background: rgb(255, 255, 255); */
   margin: 0;
-  width: 1045px;
-  height: 175px;
+  width: 70%;
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
