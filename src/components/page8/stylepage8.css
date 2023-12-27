@@ -25,7 +25,7 @@
   width: 100%;
   height: 95px;
   opacity: 0.5;
-  background-color: aqua;
+  /* background-color: aqua; */
 }
 
 .page8isi {
@@ -39,11 +39,61 @@
   width: 100%;
   height: 62%;
   /* background-color: aqua; */
+  padding: 85px 65px 55px 105px;
+}
+
+.page8isiatas h1 {
+  font-family: National2bold;
+  font-size: 42px;
+  line-height: 1;
+  letter-spacing: 3px;
+  /* font-weight: bolder; */
+  color: rgb(242, 38, 38);
+}
+
+.page8isiatas h1 span {
+  font-family: National2bold;
+  font-size: 45px;
+  line-height: 1;
+  letter-spacing: 3px;
+  /* font-weight: bolder; */
+  color: rgb(255, 191, 0);
 }
 
 .page8isibawah {
   width: 100%;
   height: 38%;
+  display: flex;
+}
+
+.page8bawahkiri {
+  width: 35%;
+  /* background: aqua; */
+  display: flex;
+  justify-content: end;
+  padding-right: 50px;
+}
+
+.page8bawahkiri p {
+  font-family: National2regular;
+  font-size: 15px;
+  line-height: 1;
+  letter-spacing: 2px;
+  /* font-weight: bolder; */
+  color: rgb(242, 38, 38);
+}
+
+.page8bawahkanan {
+  width: 65%;
+}
+
+.page8bawahkanan p {
+  font-family: National2regular;
+  font-size: 15px;
+  line-height: 1.3;
+  letter-spacing: 2.5px;
+  /* font-weight: bolder; */
+  color: rgb(242, 38, 38);
 }
 
 .page8kiri {
@@ -57,4 +107,45 @@
   height: 540px;
   width: 20.8%;
   /* background: aqua; */
+}
+
+.page8kananatas {
+  width: 100%;
+  height: 55%;
+  /* background-color: aqua; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page8kananatas img {
+  width: 160px;
+  margin-left: 20px;
+  margin-top: 40px;
+}
+
+.page8kananbawah {
+  width: 100%;
+  height: 45%;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  /* background: yellow; */
+  font-family: National2CondensedBold;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+.page8kananbawah h1 {
+  font-size: 45px;
+  font-weight: bolder;
+  color: antiquewhite;
+  text-shadow: 0 1px 0 #000, 0 2px 0 #000, 0 3px 0 #000, 0 4px 0 #000,
+    0 5px 0 #000, 0 6px 0 #000, 0 6px 1px rgba(0, 0, 0, 0.1),
+    0 0 5px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3),
+    0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.25),
+    0 10px 10px rgba(0, 0, 0, 0.2), 0 20px 20px rgba(0, 0, 0, 0.15);
+
+  /* align-items: center; */
+  text-align: center;
 }
