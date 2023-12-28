@@ -16,7 +16,7 @@ function page4() {
             (WBTb) di Indonesia pada periode 2013 sampai 2022.
           </p>
         </div>
-        <div className="kiribawah row"></div>
+        <div className="kiribawah"></div>
       </div>
       <div className="kanan">
         <div className="kananatas row">

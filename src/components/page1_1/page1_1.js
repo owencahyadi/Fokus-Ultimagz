@@ -13,7 +13,7 @@ function page1() {
         <div className="daun">
           <img src={daun} alt="IMG1" />
         </div>
-        <div className="baris2">
+        <div className="baris2_1">
           <div className="kaki">
             <img src={kaki} alt="IMG2" />
           </div>
@@ -21,7 +21,7 @@ function page1() {
             <img src={kain} alt="IMG4" />
           </div>
         </div>
-        <div className="baris3">
+        <div className="baris3_1">
           <div className="tas">
             <img src={tas} alt="IMG3" />
           </div>

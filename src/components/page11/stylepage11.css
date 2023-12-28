@@ -1,11 +1,12 @@
 @font-face {
-    font-family: 'National 2 Regular';
-    src: local('National 2 Regular'), url('../../Fonts/National 2 Regular.otf') ;
+  font-family: "National 2 Regular";
+  src: local("National 2 Regular"), url("../../Fonts/National 2 Regular.otf");
 }
 
 @font-face {
-    font-family: 'National 2 Regular Italic';
-    src: local('National 2 Regular Italic'), url('../../Fonts/National 2 Regular Italic.otf') ;
+  font-family: "National 2 Regular Italic";
+  src: local("National 2 Regular Italic"),
+    url("../../Fonts/National 2 Regular Italic.otf");
 }
 
 @font-face {
@@ -13,12 +14,12 @@
     src: local('National 2 Condensed Bold'), url('../../Fonts/National 2 Condensed Bold.otf') ;
 }
 
-.regular{
-    font-family: 'National 2 Regular';
+.regular {
+  font-family: "National 2 Regular";
 }
 
-.regularItalic{
-    font-family: 'National 2 Regular Italic';
+.regularItalic {
+  font-family: "National 2 Regular Italic";
 }
 
 .condensedBold{

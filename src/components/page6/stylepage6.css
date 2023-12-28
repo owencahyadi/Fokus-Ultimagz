@@ -23,40 +23,41 @@
 
 .page6atas {
   /* background: rgb(68, 201, 201); */
-  height: 97px;
+  height: 13%;
   width: 100%;
 }
 
 .page6tengah {
-  height: 540px;
+  height: 74%;
   width: 100%;
   /* background: aqua; */
   display: flex;
 }
 
 .tengahkiri {
-  height: 540px;
+  height: 100%;
   width: 20.8%;
   /* background: aqua; */
 }
 
 .tengahkirifoto {
-  height: 350px;
+  height: 65%;
   width: 100%;
   /* background: aqua;
   opacity: 0.5; */
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-left: -10px;
-  padding-top: 40px;
+  padding-top: 15%;
 }
 
 .tengahkirifoto img {
-  width: 220px;
+  margin-left: -5%;
+  width: 68%;
 }
 
 .tengahkiri h1 {
+  height: 35%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -75,15 +76,15 @@
 }
 
 .tengahkanan {
-  height: 540px;
+  height: 100%;
   width: 79.2%;
   /* background: aqua; */
   display: flex;
-  padding-top: 20px;
+  padding-top: 2%;
 }
 
 .melansir {
-  width: 250px;
+  width: 20%;
   height: 35%;
   /* background: aqua; */
   align-items: center;
@@ -101,15 +102,15 @@
 }
 
 .deskripsiudeng {
-  width: 966px;
+  width: 80%;
   height: 100%;
-  padding: 55px 50px 50px 0;
+  padding: 4.5% 3% 3% 0;
 }
 
 .deskripsiudeng h1 {
   font-family: National2bold;
-  font-size: 42spx;
-  line-height: 1;
+  font-size: 38px;
+  line-height: 1.2;
   letter-spacing: 3px;
   /* font-weight: bolder; */
   color: antiquewhite;
@@ -117,8 +118,8 @@
 
 .deskripsiudeng h1 span {
   font-family: National2bold;
-  font-size: 45px;
-  line-height: 1;
+  font-size: 38px;
+  line-height: 1.2;
   letter-spacing: 3px;
   /* font-weight: bolder; */
   color: yellow;
@@ -131,6 +132,6 @@
   letter-spacing: 3.2px;
   /* font-weight: bolder; */
   color: antiquewhite;
-  margin-top: 80px;
-  margin-left: 190px;
+  margin-top: 6%;
+  margin-left: 20%;
 }
