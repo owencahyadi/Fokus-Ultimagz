@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'National 2 Condensed Bold Italic';
+    src: local('National 2 Condensed Bold Italic'), url('../../Fonts/National 2 Condensed Bold Italic.otf') ;
+}
+
+.condensedBoldItalic{
+    font-family: 'National 2 Condensed Bold Italic';
+}
+
+.page19{
+    background-image: url(../../assets/page19.png);
+    background-position: center;
+    background-size: 100vw 100vh;
+    width: 100vw;
+    height: 100vh;
+    color: #f3f3d3;
+    padding-top: 3.2%;
+    padding-left: 4%;
+}
+
+.kalimatisi192{
+    margin-top: 3.2%;
+    margin-right: 10%;
+    float: right;
+}
+
+.kalimatisi193{
+    color: #056b48;
+    margin-top: 15.7%;
+}
+
+.kalimatisi194{
+    float: right;
+    margin-top: 7%;
+    margin-right: 12%;
+}
+
+@media screen and (max-width: 1440px){
+    .kalimatisi191{
+        font-size: 16px !important;
+    }
+    
+    .kalimatisi192{
+        font-size: 16px !important;
+    }
+
+    .kalimatisi193{
+        font-size: 57px !important;
+    }
+
+    .kalimatisi194{
+        font-size: 57px !important;
+    }
+}
