@@ -28,7 +28,7 @@
     margin-top: 8%;
 }
 
-@media screen and (max-width: 1440px){
+@media screen and (max-width: 1600px){
     .header17{
         font-size: 12px !important;
     }

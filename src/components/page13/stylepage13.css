@@ -20,7 +20,7 @@
     margin-left: 4%;
 }
 
-@media screen and (max-width: 1440px){
+@media screen and (max-width: 1600px){
     .kalimatisi13{
         font-size: 55px !important;
         width: 80% !important;
