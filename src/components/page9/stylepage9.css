@@ -87,3 +87,9 @@
   margin-top: 11.8%;
   margin-left: 39%;
 }
+
+@media screen and (max-width: 1080px){
+  .isibagianbawah{
+    margin-top: 50% !important;
+  }
+}
