@@ -106,3 +106,13 @@
   line-height: 0.8;
   letter-spacing: 1px;
 }
+
+@media screen and (min-width: 1600px) {
+  .judul h1{
+    font-size: 110px !important;
+  }
+
+  .desc h1{
+    font-size: 72px !important;
+  }
+}

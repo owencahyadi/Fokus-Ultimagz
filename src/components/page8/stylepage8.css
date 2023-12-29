@@ -171,3 +171,25 @@
   line-height: 0.8;
   letter-spacing: 1px;
 }
+
+@media screen and (min-width: 1600px) {
+  .page8isiatas h1{
+    font-size: 55px !important;
+  }
+
+  .page8isiatas h1 span{
+    font-size: 55px !important;
+  }
+
+  .page8bawahkanan p{
+    font-size: 20px !important;
+  }
+
+  .page8bawahkiri p{
+    font-size: 16px !important;
+  }
+
+  .page8kananbawah h1{
+    font-size: 72px !important;
+  }
+}

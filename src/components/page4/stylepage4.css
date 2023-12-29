@@ -126,3 +126,25 @@
 .aaa {
   height: fit-content;
 }
+
+@media screen and (min-width: 1600px) {
+  .kiriatas h1{
+    font-size: 110px !important;
+  }
+
+  .kiriatas p{
+    font-size: 20px !important;
+  }
+
+  .kananatas h5{
+    font-size: 20px !important;
+  }
+
+  .kananatas h1{
+    font-size: 80px !important;
+  }
+
+  .kananatas p{
+    font-size: 12px !important;
+  }
+}

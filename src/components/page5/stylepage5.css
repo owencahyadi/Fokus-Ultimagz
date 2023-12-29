@@ -88,3 +88,17 @@
   letter-spacing: 1px;
   color: #c2d6b5;
 }
+
+@media screen and (min-width: 1600px) {
+  .page5atas{
+    font-size: 20px !important;
+  }
+
+  .hello{
+    font-size: 20px !important;
+  }
+
+  .page5bawah h1{
+    font-size: 130px !important;
+  }
+}

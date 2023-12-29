@@ -90,3 +90,17 @@
   font-weight: bolder;
   color: #ee4f54;
 }
+
+@media screen and (min-width: 1600px) {
+  .descpage7 p{
+    font-size: 20px !important;
+  }
+
+  .descpage7 h1{
+    font-size: 68px !important;
+  }
+
+  .descpage7 h1 span{
+    font-size: 68px !important;
+  }
+}

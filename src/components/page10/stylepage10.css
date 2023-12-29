@@ -105,6 +105,14 @@
 
 @media screen and (min-width: 1600px){
   .descpage10{
-    margin-top: 20% !important;
+    margin-top: 19.5% !important;
+  }
+
+  .descpage10 p{
+    font-size: 20px !important;
+  }
+
+  .penjelasanpage10 h1{
+    font-size: 48px !important;
   }
 }
