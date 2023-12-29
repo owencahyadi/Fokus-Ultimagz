@@ -35,13 +35,9 @@
 .judul h1 {
   font-size: 90px;
   font-weight: bolder;
-  color: antiquewhite;
+  color: #f4f3d2;
   text-shadow: 0 1px 0 #000, 0 2px 0 #000, 0 3px 0 #000, 0 4px 0 #000,
-    0 5px 0 #000, 0 6px 0 #000, 0 7px 0 #000, 0 8px 0 #000, 0 9px 0 #000,
-    0 6px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.1),
-    0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(0, 0, 0, 0.2),
-    0 5px 10px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.2),
-    0 20px 20px rgba(0, 0, 0, 0.15);
+    0 5px 0 #000, 0 6px 0 #000, 0 7px 0 #000, 0 8px 0 #000, 0 9px 0 #000;
 }
 
 .gambarr {
@@ -94,12 +90,9 @@
 .desc h1 {
   font-size: 45px;
   font-weight: bolder;
-  color: antiquewhite;
+  color: #f4f3d2;
   text-shadow: 0 1px 0 #000, 0 2px 0 #000, 0 3px 0 #000, 0 4px 0 #000,
-    0 5px 0 #000, 0 6px 0 #000, 0 6px 1px rgba(0, 0, 0, 0.1),
-    0 0 5px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3),
-    0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.25),
-    0 10px 10px rgba(0, 0, 0, 0.2), 0 20px 20px rgba(0, 0, 0, 0.15);
+    0 5px 0 #000, 0 6px 0 #000;
 
   /* align-items: center; */
   text-align: center;
