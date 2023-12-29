@@ -12,15 +12,18 @@
     padding-top: 3%; 
     padding-left: 15%; 
     width: 30%;
+    height: 10%;
     display: flex;
 }
 
 .isi15{
     margin-left: 5%;
+    height: 71%;
 }
 
 .footer15{
     color: #f3f3d3;
+    height: 15%;
 }
 
 @media screen and (max-width: 1600px){

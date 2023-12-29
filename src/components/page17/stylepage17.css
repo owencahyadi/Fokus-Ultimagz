@@ -19,6 +19,7 @@
 
 .header17{
     width: 32.5%;
+    height: 18%;
     padding-top: 9%; 
     padding-left: 10%; 
 }
@@ -26,6 +27,7 @@
 .isi17{
     margin-left: 0.5%;
     margin-top: 8%;
+    height: 60%;
 }
 
 @media screen and (max-width: 1600px){
