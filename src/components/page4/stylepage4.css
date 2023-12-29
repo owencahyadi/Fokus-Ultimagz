@@ -12,6 +12,20 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "National2"; /* Specify the desired font-family name */
+  src: url("../../Fonts/National 2 Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "National2light"; /* Specify the desired font-family name */
+  src: url("../../Fonts/National 2 Light.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 .boxxess {
   width: 100vw;
   height: 100vh;
@@ -46,10 +60,10 @@
 .kiriatas p {
   margin-top: 4%;
   margin-bottom: 0;
-  font-family: National2regular;
-  /* font-size: 15px; */
+  font-family: National2;
+  font-size: 15px;
   line-height: 1;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   /* font-weight: bolder; */
   color: antiquewhite;
 }
@@ -75,8 +89,8 @@
 }
 
 .kananatas h5 {
-  font-family: National2regular;
-  /* font-size: 15px; */
+  font-family: National2;
+  font-size: 15px;
   line-height: 1;
   letter-spacing: 2px;
   color: green;
@@ -91,11 +105,12 @@
   letter-spacing: 2px;
   color: green;
   margin: 0;
+  margin-bottom: 3%;
 }
 
 .kananatas p {
-  font-family: National2regular;
-  font-size: 12px;
+  font-family: National2light;
+  font-size: 10px;
   line-height: 1;
   letter-spacing: 2px;
   color: green;
