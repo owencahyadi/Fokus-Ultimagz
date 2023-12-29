@@ -40,6 +40,7 @@
     display: flex;
     color: #056b48;
     width: 54%;
+    height: 15%;
     gap: 20%;
 }
 
@@ -47,12 +48,14 @@
     color: #f3f3d3; 
     padding-top: 8%;
     width: 62%;
+    height: 58%;
 }
 
 .footer11{
     color: #056b48; 
     padding-top: 6.5%;
     width: 59%;
+    height: 5%;
 }
 
 @media screen and (max-width: 1600px){
