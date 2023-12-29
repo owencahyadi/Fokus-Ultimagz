@@ -69,7 +69,7 @@
   line-height: 1;
   letter-spacing: 1px;
   /* font-weight: bolder; */
-  color: green;
+  color: #096b48;
 }
 
 .descpage7 h1 {
@@ -79,7 +79,7 @@
   line-height: 1;
   letter-spacing: 1.2px;
   font-weight: bolder;
-  color: green;
+  color: #096b48;
 }
 
 .descpage7 h1 span {
@@ -88,5 +88,5 @@
   line-height: 1;
   letter-spacing: 1.2px;
   font-weight: bolder;
-  color: red;
+  color: #ee4f54;
 }

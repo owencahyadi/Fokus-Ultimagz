@@ -46,16 +46,16 @@
   width: 100%;
   height: 32.7%;
   /* background: aqua; */
-  padding: 3.5%;
+  padding: 4.5% 3.5% 3.5% 3.5%;
   font-family: National2;
-  font-size: 17.5px;
+  font-size: 16.5px;
   line-height: 1;
   letter-spacing: 1px;
-  color: green;
+  color: #096544;
 }
 
 .descc {
-  margin-top: 3%;
+  margin-top: 4%;
   margin-left: 23%;
 }
 
@@ -72,13 +72,11 @@
   line-height: 1;
   letter-spacing: 3px;
   /* font-weight: bolder; */
-  color: antiquewhite;
+  color: #f4f3d2;
   text-shadow: 0 1px 0 #000, 0 2px 0 #000, 0 3px 0 #000, 0 4px 0 #000,
-    0 5px 0 #000, 0 6px 0 #000, 0 7px 0 #000, 0 8px 0 #000, 0 9px 0 #000,
-    0 6px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.1),
-    0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(0, 0, 0, 0.2),
-    0 5px 10px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.2),
-    0 20px 20px rgba(0, 0, 0, 0.15);
+    0 5px 0 #000, 0 6px 0 #000, 0 7px 0 #000, 0 8px 0 #000, 0 9px 0 #000;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 .hello {
@@ -88,5 +86,5 @@
   font-size: 17.5px;
   line-height: 1;
   letter-spacing: 1px;
-  color: beige;
+  color: #c2d6b5;
 }

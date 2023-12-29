@@ -1,5 +1,12 @@
 @font-face {
   font-family: "National2CondensedBold"; /* Specify the desired font-family name */
+  src: url("../../Fonts/National 2 Condensed Bold.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "National2Bold"; /* Specify the desired font-family name */
   src: url("../../Fonts/National 2 XBold.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
@@ -82,18 +89,20 @@
   justify-content: center;
   align-items: center;
   /* background: yellow; */
-  font-family: National2CondensedBold;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
 }
 
 .desc h1 {
-  font-size: 45px;
-  font-weight: bolder;
+  font-family: National2CondensedBold;
+  font-size: 55px;
+  font-weight: 900;
   color: #f4f3d2;
   text-shadow: 0 1px 0 #000, 0 2px 0 #000, 0 3px 0 #000, 0 4px 0 #000,
     0 5px 0 #000, 0 6px 0 #000;
-
   /* align-items: center; */
   text-align: center;
+  margin: 0;
+  line-height: 0.8;
+  letter-spacing: 1px;
 }
