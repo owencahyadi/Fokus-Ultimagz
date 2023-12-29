@@ -82,13 +82,6 @@
 
   .isifooter {
     font-size: 14px !important;
-    padding-top: 0%;
-  }
-}
-
-@media screen and (min-width: 1601px) {
-  .isifooter {
-    font-size: 14px !important;
-    padding-top: 2% !important;
+    padding-top: 0% !important;
   }
 }

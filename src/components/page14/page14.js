@@ -18,7 +18,12 @@ function page14() {
         </h1>
         <h1
           className="condensedBold kalimatisi142"
-          style={{ fontSize: "72px", marginLeft: "37%", letterSpacing: "1px" }}
+          style={{
+            fontSize: "72px",
+            marginLeft: "37%",
+            marginTop: "11.3%",
+            letterSpacing: "1px",
+          }}
         >
           dari pembuatnya.
         </h1>
@@ -27,6 +32,7 @@ function page14() {
           style={{
             fontSize: "28px",
             width: "60%",
+            marginTop: "8%",
             lineHeight: "1.2",
           }}
         >
