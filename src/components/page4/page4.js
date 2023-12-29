@@ -39,7 +39,8 @@ function page4() {
           <div className="col-6 mt-0 aaa">
             <h1>503</h1>
             <p>
-              Warisan budaya dalam <br /> domain Seni Pertunjukan
+              Warisan budaya dalam <br /> domain Seni <br />
+              Pertunjukan
             </p>
           </div>
           <div className="col-6 mt-0 aaa">
@@ -50,7 +51,7 @@ function page4() {
               dan Ekspresi
             </p>
           </div>
-          <div className="col-8 mt-0 aaa">
+          <div className="col-9 mt-0 aaa">
             <h1>75</h1>
             <p>
               Warisan budaya dalam domain

@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "National2CondensedBold"; /* Specify the desired font-family name */
-  src: url("../../Fonts/National 2 XBold.otf") format("opentype");
+  font-family: "National2Bold"; /* Specify the desired font-family name */
+  src: url("../../Fonts/National 2 Condensed Bold.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -8,6 +8,20 @@
 @font-face {
   font-family: "National2regular"; /* Specify the desired font-family name */
   src: url("../../Fonts/National 2 Condensed Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "National2"; /* Specify the desired font-family name */
+  src: url("../../Fonts/National 2 Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "National2light"; /* Specify the desired font-family name */
+  src: url("../../Fonts/National 2 Light.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -33,10 +47,10 @@
   height: 32.7%;
   /* background: aqua; */
   padding: 3.5%;
-  font-family: National2regular;
-  font-size: 18px;
+  font-family: National2;
+  font-size: 17.5px;
   line-height: 1;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   color: green;
 }
 
@@ -70,9 +84,9 @@
 .hello {
   margin-top: 5%;
   margin-left: 23%;
-  font-family: National2regular;
-  font-size: 18px;
+  font-family: National2;
+  font-size: 17.5px;
   line-height: 1;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   color: beige;
 }

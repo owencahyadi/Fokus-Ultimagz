@@ -20,7 +20,8 @@ function page6() {
         <div className="tengahkanan">
           <div className="melansir">
             <p>
-              Melansir dari <br /> indonesia.go.id,
+              Melansir dari <br />
+              <i> indonesia.go.id,</i>
             </p>
           </div>
           <div className="deskripsiudeng">

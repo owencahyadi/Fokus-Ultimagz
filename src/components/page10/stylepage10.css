@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "National2CondensedBold"; /* Specify the desired font-family name */
-  src: url("../../Fonts/National 2 XBold.otf") format("opentype");
+  font-family: "National2Bold"; /* Specify the desired font-family name */
+  src: url("../../Fonts/National 2 Condensed Bold.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -8,6 +8,28 @@
 @font-face {
   font-family: "National2regular"; /* Specify the desired font-family name */
   src: url("../../Fonts/National 2 Condensed Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "National2"; /* Specify the desired font-family name */
+  src: url("../../Fonts/National 2 Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "National2light"; /* Specify the desired font-family name */
+  src: url("../../Fonts/National 2 Light.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "National2bolditalic"; /* Specify the desired font-family name */
+  src: url("../../Fonts/National 2 Condensed Bold Italic.otf")
+    format("opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -56,10 +78,10 @@
 }
 
 .page10isi p {
-  font-family: National2regular;
-  font-size: 18px;
+  font-family: National2;
+  font-size: 15px;
   line-height: 1.2;
-  letter-spacing: 3px;
+  letter-spacing: 1px;
   /* font-weight: bolder; */
   color: green;
 }
