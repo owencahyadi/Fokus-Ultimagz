@@ -102,3 +102,9 @@
   /* font-weight: bolder; */
   color: #237a58;
 }
+
+@media screen and (min-width: 1600px){
+  .descpage10{
+    margin-top: 20% !important;
+  }
+}
