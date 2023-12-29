@@ -45,15 +45,7 @@
 
   .kalimatisi173 {
     font-size: 16px !important;
-    margin-top: 1.5%;
-    margin-left: 4%;
-  }
-}
-
-@media screen and (min-width: 1601px) {
-  .kalimatisi173 {
-    font-size: 16px !important;
-    margin-top: 6%;
-    margin-left: 6%;
+    margin-top: 1.5% !important;
+    margin-left: 4% !important;
   }
 }

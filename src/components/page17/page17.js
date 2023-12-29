@@ -28,6 +28,8 @@ function page17() {
           style={{
             fontSize: "20px",
             width: "45%",
+            marginTop: "6%",
+            marginLeft: "6%",
           }}
         >
           Motif merijam memiliki makna sebagai pengingat masyarakat Dayak
