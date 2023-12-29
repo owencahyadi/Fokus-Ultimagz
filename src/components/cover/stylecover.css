@@ -5,6 +5,13 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "National2regular"; /* Specify the desired font-family name */
+  src: url("../../Fonts/National 2 Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 .box {
   width: 100vw;
   height: 100vh;
@@ -66,7 +73,7 @@
 }
 
 .telisik5 h1 {
-  font-size: 70px;
+  font-size: 95px;
   font-weight: bolder;
   color: #dddcbf;
   text-shadow: 1px 0px 1px #000, 0px 1px 1px #000, 2px 1px 1px #000,
@@ -86,7 +93,7 @@
 }
 
 .budaya h1 {
-  font-size: 70px;
+  font-size: 95px;
   font-weight: bolder;
   color: #dddcbf;
   text-shadow: 1px 0px 1px #000, 0px 1px 1px #000, 2px 1px 1px #000,
@@ -118,7 +125,7 @@
 }
 
 .benda h1 {
-  font-size: 70px;
+  font-size: 95px;
   font-weight: bolder;
   color: #dddcbf;
   text-shadow: 1px 0px 1px #000, 0px 1px 1px #000, 2px 1px 1px #000,
@@ -153,7 +160,7 @@
 .namapenulis h5 {
   font-size: 20px;
   /* font-weight: bolder; */
-  font-family: National2regular;
+  font-family: National2;
   color: beige;
 }
 
@@ -171,7 +178,7 @@
 }
 
 .indonesia h1 {
-  font-size: 70px;
+  font-size: 95px;
   font-weight: bolder;
   color: #ee4f54;
   text-shadow: 0 1px #000, -1px 0 #000, -1px 2px #000, -2px 1px #000,
@@ -193,7 +200,7 @@
 }
 
 .untuk h1 {
-  font-size: 70px;
+  font-size: 95px;
   font-weight: bolder;
   color: #dddcbf;
   text-shadow: 0 1px #000, -1px 0 #000, -1px 2px #000, -2px 1px #000,
@@ -225,7 +232,7 @@
 }
 
 .kehidupan h1 {
-  font-size: 70px;
+  font-size: 95px;
   font-weight: bolder;
   color: #dddcbf;
   text-shadow: 1px 0px 1px #000, 0px 1px 1px #000, 2px 1px 1px #000,
