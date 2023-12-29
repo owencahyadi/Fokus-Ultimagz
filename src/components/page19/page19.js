@@ -22,7 +22,8 @@ function page19() {
         className="condensedBold kalimatisi193"
         style={{ fontSize: "72px", width: "45%" }}
       >
-        Dari kelima budaya yang sudah disebutkan di atas,
+        Dari kelima budaya yang
+        <br /> sudah disebutkan di atas,
       </h1>
       <div
         className="kalimatisi194"

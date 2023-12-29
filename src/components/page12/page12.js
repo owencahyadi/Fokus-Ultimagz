@@ -27,6 +27,7 @@ function page12() {
           style={{
             fontSize: "20px",
             width: "35%",
+            marginTop: "6%",
             marginLeft: "40%",
           }}
         >
